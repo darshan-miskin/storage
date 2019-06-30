@@ -1,0 +1,37 @@
+[{
+  "id": "5968dd23fc13ae04d9000001",
+  "product_name": "Github",
+  "supplier": "Microsoft Inc",
+  "quantity": 261,
+  "unit_cost": "10.47"
+}, {
+  "id": "5968dd23fc13ae04d9000002",
+  "product_name": "Google",
+  "supplier": "Alphabet Inc",
+  "quantity": 292,
+  "unit_cost": "8.74"
+}, {
+  "id": "5968dd23fc13ae04d9000003",
+  "product_name": "One Plus 6",
+  "supplier": "One Plus",
+  "quantity": 211,
+  "unit_cost": "20.53"
+}, {
+  "id": "5968dd23fc13ae04d9000004",
+  "product_name": "Red Bull",
+  "supplier": "Red Bull GmbH",
+  "quantity": 242,
+  "unit_cost": "2.30"
+}, {
+  "id": "5968dd23fc13ae04d9000005",
+  "product_name": "Mx Linux",
+  "supplier": "antiX and MEPIS",
+  "quantity": 210,
+  "unit_cost": "16.35"
+}, {
+  "id": "5968dd23fc13ae04d9000006",
+  "product_name": "Whey Protein",
+  "supplier": "Impact Whey Protein",
+  "quantity": 112,
+  "unit_cost": "99.99"
+}]
